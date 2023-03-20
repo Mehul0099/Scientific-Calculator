@@ -1,0 +1,36 @@
+body{
+ background-color: #F0F0F0 !important;
+}
+
+.container{
+    width: 600px !important;
+    margin-top: 100px !important;
+    background-color: white !important;
+
+}
+
+button{
+    border: none !important;
+}
+
+.display {
+    margin: 5px;
+}
+
+.my-input {
+    height: 100px;
+    outline: none;
+    border: none;
+    background-color: white;
+    font-size: xx-large;
+    text-align: end;
+}
+
+.my-output {
+    outline: none;
+    border: none;
+    font-size: larger;
+    background-color: white;
+}
+
+
